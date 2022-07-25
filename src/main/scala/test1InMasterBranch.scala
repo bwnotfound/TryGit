@@ -1,4 +1,4 @@
-package acute
+package scala
 
 object Main extends App{
     println("hello world")
