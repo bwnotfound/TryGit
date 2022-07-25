@@ -4,5 +4,5 @@ object Main extends App{
     println("hello world")
     val a = 10
 
-    def output = println("Just so so")
+    def output = println("Nope")
 }
